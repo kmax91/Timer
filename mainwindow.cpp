@@ -17,7 +17,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
     showtime();
 
-    setWindowTitle("My Damn Clock");
+    setWindowTitle("My Clock");
     resize(3000,1500);
     //    ui->setupUi(this);
 }
